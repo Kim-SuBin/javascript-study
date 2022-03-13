@@ -2,9 +2,9 @@
 
 인프런에 등록된 총 3편의 강의 수강하기 : )
 
-### 강의 노트
+### 시작 환경 준비하기
 
-- [Part.0 Javascript 실습 환경 구성](./note/part0.md)
+- [Part.0 Javascript 실습 환경 구성](part0.md)
 
 ### 강의 수강 리스트업
 
